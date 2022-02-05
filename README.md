@@ -7,7 +7,7 @@ Presentation Slides-
 
 
 ## Demo - Deployed over Github Pages
-https://ajazbeig-21.github.io/live-movie-app/
+https://ajayprajapati07.github.io/live-movie-app/
 
 ## APIs Used
 The Open Movie Database APIs
